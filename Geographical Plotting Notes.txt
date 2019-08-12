@@ -1,0 +1,8 @@
+Geographical Plotting
+
+
+Geographical plotting is usually challenging due to various formats the data can come in and we 
+specifically require multiple libraries considering various format
+
+
+Matplotlib also has a basemap extension, which help us creating static geographic plots
